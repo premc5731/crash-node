@@ -33,7 +33,7 @@ An Arduino-based system that automatically detects a vehicle accident and sends 
 
 This diagram illustrates the logical flow of the system from initialization and monitoring to alert dispatch.
 
-<img src="Public\FlowDiagram.png" alt="System Flowchart" width="600" height="800">
+<img src="Public\FlowDiagram.png" alt="System Flowchart" width="500" height="800">
 
 ---
 
