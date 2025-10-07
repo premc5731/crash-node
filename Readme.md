@@ -41,7 +41,7 @@ This diagram illustrates the logical flow of the system from initialization and 
 
 This diagram shows the complete wiring for all hardware components.
 
-<img src="Public\circuit_diagram.png" alt="System Flowchart" width="500" height="500">
+<img src="Public\Circuit_Diagram.png" alt="System Flowchart" width="500" height="500">
 
 ---
 
